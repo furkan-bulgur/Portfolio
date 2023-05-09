@@ -1,0 +1,29 @@
+body{
+    margin: 0%;
+}
+
+header{
+    background-color: #b518b8;
+}
+
+#name{
+    padding: 2% 4%;
+    color: aliceblue;
+}
+
+#name h2{
+    margin: 0px;
+}
+
+#name span{
+    font-size: small;
+}
+
+#name div{
+    padding: 0.1rem;
+}
+
+#name img{
+    align-items: center;
+    padding-right: 0.8%;
+}
