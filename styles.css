@@ -4,11 +4,17 @@ body{
 
 header{
     background-color: #b518b8;
+    overflow: auto;
+}
+
+nav{
+    float: right;
 }
 
 #name{
     padding: 2% 4%;
     color: aliceblue;
+    float: left;
 }
 
 #name h2{
